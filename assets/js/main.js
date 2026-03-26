@@ -51,7 +51,7 @@
 
     $(function () {
         element.typed({
-            strings: ["Web Designer.", "Social Media Designer."],
+            strings: ["Web Designer.", "Social Media."],
             typeSpeed: 100,
             loop: true,
             autoplay: true,
