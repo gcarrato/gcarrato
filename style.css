@@ -226,6 +226,9 @@ button:focus {
 .section-title {
     margin-bottom: 60px;
 }
+.section-title_conversa{
+    margin-bottom: 10px !important;
+}
 
 .section-title h2 {
     text-transform: uppercase;
