@@ -71,7 +71,9 @@
     .section-title h2 {
         font-size: 24px;
     }
-
+.whats_app{
+    display: none !important;
+}
     /*::::::::::::::::::::::::::::::::::::
        Main Menu
     ::::::::::::::::::::::::::::::::::::*/
